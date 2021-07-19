@@ -5,7 +5,7 @@ Imports System.IO
 Public Class AesHelper
 
     '''<summary>
-    ''' AES解密ff
+    ''' AES解密
     ''' </summary>
     ''' <param name="Data">被解密的密文</param>
     ''' <param name="Key">密钥</param>

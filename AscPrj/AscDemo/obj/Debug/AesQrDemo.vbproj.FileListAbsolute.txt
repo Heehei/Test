@@ -1,0 +1,11 @@
+E:\20200916_KY\VB练习\AscPrj\AscPrj\AscDemo\bin\Debug\AesQrDemo.exe
+E:\20200916_KY\VB练习\AscPrj\AscPrj\AscDemo\bin\Debug\AesQrDemo.pdb
+E:\20200916_KY\VB练习\AscPrj\AscPrj\AscDemo\bin\Debug\AesQrDemo.xml
+E:\20200916_KY\VB练习\AscPrj\AscPrj\AscDemo\bin\Debug\QRCoder.dll
+E:\20200916_KY\VB练习\AscPrj\AscPrj\AscDemo\obj\Debug\AesQrDemo.AesQrCodeDemo.resources
+E:\20200916_KY\VB练习\AscPrj\AscPrj\AscDemo\obj\Debug\AesQrDemo.Resources.resources
+E:\20200916_KY\VB练习\AscPrj\AscPrj\AscDemo\obj\Debug\AesQrDemo.vbproj.GenerateResource.Cache
+E:\20200916_KY\VB练习\AscPrj\AscPrj\AscDemo\obj\Debug\AesQrDemo.exe
+E:\20200916_KY\VB练习\AscPrj\AscPrj\AscDemo\obj\Debug\AesQrDemo.xml
+E:\20200916_KY\VB练习\AscPrj\AscPrj\AscDemo\obj\Debug\AesQrDemo.pdb
+E:\20200916_KY\VB练习\AscPrj\AscPrj\AscDemo\obj\Debug\AesQrDemo.vbprojResolveAssemblyReference.cache
